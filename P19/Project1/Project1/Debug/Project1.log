@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\desktop\hw5\p19\project1\project1\main.c(11): warning C4129: ' ': 無法辨識的字元逸出序列
+  Project1.vcxproj -> C:\Users\User\Desktop\HW5\P19\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\User\Desktop\HW5\P19\Project1\Debug\Project1.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\desktop\hw5\p05\project1\project1\main.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'int *'
+  Project1.vcxproj -> C:\Users\User\Desktop\HW5\P05\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\User\Desktop\HW5\P05\Project1\Debug\Project1.pdb (Partial PDB)
